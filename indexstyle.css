@@ -9,3 +9,12 @@ body {
     background: linear-gradient(to right, #1A6393 0%, #9D168C 100%);
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.lesbian {
+    background-image: url("lesbian.png");
+    background-size: 52%;
+    color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
