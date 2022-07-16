@@ -18,3 +18,21 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.quote {
+	font-size: 30px;
+	display: inline-block;
+	padding-right: 60px;
+    padding-left: 60px;
+	padding-bottom: 30px;
+}
+.quotePerson {
+    position:relative;display:inline-block;top: 40px;
+
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
