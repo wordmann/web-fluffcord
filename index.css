@@ -11,12 +11,22 @@ body {
 }
 
 
+a {
+    color: rgb(41, 0, 99);
+  }
+
 .lesbian {
     background-image: url("lesbian.png");
-    background-size: 52%;
+    background-size: 16%;
     color: transparent;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    position: static;
+    display:block;
+    text-align: center;
+    font-size: 44px;
+    margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 .quote {
